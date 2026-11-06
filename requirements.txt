@@ -1,0 +1,9 @@
+streamlit>=1.37
+pandas
+numpy
+plotly
+openpyxl
+pdfplumber
+pypdf
+pillow
+pytesseract
